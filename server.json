@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 28.75,
       "createdAt": "2023-02-22T12:12:00.505Z"
+    },
+    {
+      "description": "Curso",
+      "price": 1000,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-02-03T16:57:06.268Z",
+      "id": "RExzBUr"
+    },
+    {
+      "description": "Desenvolvimento de sistema",
+      "price": 15041,
+      "category": "Venda",
+      "type": "outcome",
+      "createdAt": "2023-02-03T17:07:36.116Z",
+      "id": "W4o7kC6"
     }
   ]
 }
